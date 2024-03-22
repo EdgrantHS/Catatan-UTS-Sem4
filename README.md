@@ -15,3 +15,7 @@ This workspace contains study notes for various subjects. Each subject has its o
 ## Usage
 
 To use these notes, simply open the markdown file for the subject you're interested in. The notes are organized by week, so you can easily find the topics you're looking for.
+
+## Warning
+
+latex github doesn't render matrices, to view them, render them with vscode or other supported software
